@@ -24,4 +24,19 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ``
 
 ## How We Did This:
-The regex expression is as follows 
+### By:
+The regex expression is as follows:
+This regular expression pattern validates and extracts URLs in an application. The pattern is as follows:
+/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+We first destructure the pattern according to what we research,
+we destructure and describe what the anchors were, the quantifiers, the or-operator, the character-classes, the flags, the grouping and capturing, the greedy and lazy match, the back references and boundaries, and the look ahead and look behind. We explain what each of these components serves to the pattern, and determine what they mean or represent in the URL regex expression matching pattern.
+
+## Link to Github Repository
+https://github.com/shababrc/Regex-Tutorial 
+
+## Credits
+Big thanks to the rest of the bootcamp class for their help, as well as Bryan and Shawn for their expertise.
+
+
+## License
+MIT
