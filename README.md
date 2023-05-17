@@ -34,7 +34,7 @@ we destructure and describe what the anchors were, the quantifiers, the or-opera
 https://github.com/shababrc/Regex-Tutorial 
 
 ## Link to the Gist
-
+https://github.com/shababrc/Regex-Tutorial/blob/main/regexgist.md 
 
 ## Credits
 Big thanks to the rest of the bootcamp class for their help, as well as Bryan and Shawn for their expertise.
