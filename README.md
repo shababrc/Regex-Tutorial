@@ -1,6 +1,5 @@
 # Regex-Tutorial
 
-
 ## Description
 A tutorial that explains how a specific regular expression, or regex, in this case a regex pattern to match a URL, functions by breaking down each part of the expression and describing what it does.
 
@@ -36,7 +35,6 @@ https://github.com/shababrc/Regex-Tutorial
 
 ## Credits
 Big thanks to the rest of the bootcamp class for their help, as well as Bryan and Shawn for their expertise.
-
 
 ## License
 MIT

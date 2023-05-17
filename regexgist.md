@@ -68,6 +68,6 @@ There are no back-references used in this pattern.
 ### Look-ahead and Look-behind
 There are no look-ahead or look-behind assertions used in this pattern.
 
-## Author: 
-Shabab Chowdhury wrote this tutorial for explaining the regex pattern on URL matching. His github is https://github.com/shababrc 
+Author: 
+Shabab Chowdhury wrote this tutorial for explaining the regex pattern on URL matching. His github is 
 
