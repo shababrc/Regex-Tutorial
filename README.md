@@ -4,13 +4,13 @@
 A tutorial that explains how a specific regular expression, or regex, in this case a regex pattern to match a URL, functions by breaking down each part of the expression and describing what it does.
 
 ## User Story
-``md
+``
 AS A web development student
 I WANT a tutorial explaining a specific regex
 SO THAT I can understand the search pattern the regex defines
 ``
 ## Acceptance Criteria
-``md
+``
 GIVEN a regex tutorial
 WHEN I open the tutorial
 THEN I see a descriptive title and introductory paragraph explaining the purpose of the tutorial, a summary describing the regex featured in the tutorial, a table of contents linking to different sections that break down each component of the regex and explain what it does, and a section about the author with a link to the author’s GitHub profile
@@ -32,6 +32,9 @@ we destructure and describe what the anchors were, the quantifiers, the or-opera
 
 ## Link to Github Repository
 https://github.com/shababrc/Regex-Tutorial 
+
+## Link to the Gist
+
 
 ## Credits
 Big thanks to the rest of the bootcamp class for their help, as well as Bryan and Shawn for their expertise.
